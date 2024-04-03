@@ -1,4 +1,4 @@
-import "./ui/global.css";
+import "./ui/globals.css";
 import { ReactNode } from "react";
 import { StoreProvider } from "./store";
 import { fetchChannels } from "./utils";
